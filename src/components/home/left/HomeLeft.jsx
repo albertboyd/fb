@@ -83,21 +83,21 @@ export default function HomeLeft({ user }) {
       <div className={styles.shortcut_list}>
         <div className="hover2">
           <Shortcut
-            link="https://github.com/jeffjiang13"
+            link="https://github.com/albertboyd"
             img="../../images/github.png"
             name="Github"
           />
         </div>
         <div className="hover2">
           <Shortcut
-            link="https://www.linkedin.com/in/jeffjiang13/"
+            link="https://www.linkedin.com/in/albert-james-boyd/"
             img="../../images/linkedin.png"
             name="Linkedin"
           />
         </div>
         <div className="hover2">
           <Shortcut
-            link="https://www.jeff-jiang.com"
+            link="https://albert-boyd.vercel.app"
             img="../../images/icon.png"
             name="Portfolio"
           />
@@ -121,7 +121,7 @@ export default function HomeLeft({ user }) {
         <Link to="/">Cookies</Link> <span>• </span> <br />
         <Link to="/">More </Link>
         <span>• </span>
-        facebook clone © 2023 by JJ, All Rights Reserved
+        facebook clone © 2023 by Albert Boyd, All Rights Reserved
       </div>
     </div>
   );

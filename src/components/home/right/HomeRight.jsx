@@ -15,14 +15,14 @@ function HomeRight({ user }) {
       image:
         "https://res.cloudinary.com/dw8k3b8h7/image/upload/v1685503657/facebook/users/647656a2738e4dd3b6162c69/public/posts/y2bnxdtvmqvwwrkayubo.webp",
       text: "Special discount for you!",
-      url: 'https://jj-ecommerce-store.vercel.app/'
+      url: 'https://albert-ecommerce-store.vercel.app/'
 
     },
     {
       image:
         "https://res.cloudinary.com/dw8k3b8h7/image/upload/v1685504156/facebook/users/647656a2738e4dd3b6162c69/public/posts/cwzojs2zmt7tur9xvkvs.webp",
       text: "Don't miss this opportunity!",
-      url: 'https://jj-ecommerce-3.vercel.app/'
+      url: 'https://albert-ecommerce-3.vercel.app/'
 
     },
   ];

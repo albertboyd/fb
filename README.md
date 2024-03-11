@@ -6,7 +6,7 @@
 
   <img secure src="./public/Screenshot.png" alt="FB_2023" />
 
-<a href="https://jj-facebook.vercel.app">Demo</a>
+<a href="https://albert-facebook.vercel.app">Demo</a>
 
 </div>
 
@@ -18,7 +18,7 @@ This project is a sophisticated emulation of the renowned social media platform,
 
 
 ## Backend Repository
-https://github.com/jeffjiang13/fb-server
+https://github.com/albertboyd/fb-server
 
 
 ## Core Features
@@ -62,7 +62,7 @@ https://github.com/jeffjiang13/fb-server
 - Clone the repository
 
 ```bash
-git clone https://github.com/jeffjiang13/fb.git
+git clone https://github.com/albertboyd/fb.git
 ```
 
 - Install the dependencies
@@ -89,13 +89,13 @@ To deploy this project run
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffjiang13/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeffjiang9)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-james-boyd/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertboyd)
 
 
 ## Authors
 
-- [@jeffjiang13](https://www.github.com/jeffjiang13)
+- [@albertboyd](https://www.github.com/albertboyd)
 
 
 ## 🚀 About Me
